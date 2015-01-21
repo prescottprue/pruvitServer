@@ -16,7 +16,7 @@ exports.index = function(req, res) {
     } else {
       console.log('Task is processing');
     }
-  })
+  });
 };
 
 
